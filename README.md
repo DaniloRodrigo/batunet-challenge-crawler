@@ -30,3 +30,7 @@ In order to test the app run the following command:
 $ php bin/console app:crawler url
 
 Where the "url" is the address of the site the you aim to crawling.
+
+### Output
+
+The output of the app will be displayed on the terminal and saved as a json file under the public/crawled_pages folder.
